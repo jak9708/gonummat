@@ -7,4 +7,4 @@
 // metric space.
 //
 // See http://pnylab.com/papers/vptree/vptree.pdf for details of vp-trees.
-package vptree // import "gonum.org/v1/gonum/spatial/vptree"
+package vptree // import "github.com/jak9708/gonummat/spatial/vptree"

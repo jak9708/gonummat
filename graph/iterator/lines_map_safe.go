@@ -10,7 +10,7 @@ package iterator
 import (
 	"reflect"
 
-	"gonum.org/v1/gonum/graph"
+	"github.com/jak9708/gonummat/graph"
 )
 
 // Lines implements the graph.Lines interfaces.

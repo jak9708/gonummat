@@ -5,8 +5,8 @@
 package gonum
 
 import (
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
+	"github.com/jak9708/gonummat/blas"
+	"github.com/jak9708/gonummat/blas/blas64"
 )
 
 // Dorgr2 generates an m×n real matrix Q with orthonormal rows, which is defined

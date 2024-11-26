@@ -12,7 +12,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/floats/scalar"
+	"github.com/jak9708/gonummat/floats/scalar"
 )
 
 func TestCholesky(t *testing.T) {

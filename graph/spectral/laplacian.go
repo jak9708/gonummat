@@ -7,8 +7,8 @@ package spectral
 import (
 	"math"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/mat"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/mat"
 )
 
 // Laplacian is a graph Laplacian matrix.

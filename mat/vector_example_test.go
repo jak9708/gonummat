@@ -7,8 +7,8 @@ package mat_test
 import (
 	"fmt"
 
-	"gonum.org/v1/gonum/blas/blas64"
-	"gonum.org/v1/gonum/mat"
+	"github.com/jak9708/gonummat/blas/blas64"
+	"github.com/jak9708/gonummat/mat"
 )
 
 // This example shows how simple user types can be constructed to

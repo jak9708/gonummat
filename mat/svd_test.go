@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/floats"
+	"github.com/jak9708/gonummat/floats"
 )
 
 func TestSVD(t *testing.T) {

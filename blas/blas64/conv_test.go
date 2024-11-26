@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	"gonum.org/v1/gonum/blas"
+	"github.com/jak9708/gonummat/blas"
 )
 
 func newGeneralFrom(a GeneralCols) General {

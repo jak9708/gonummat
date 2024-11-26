@@ -9,8 +9,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/simple"
 )
 
 // JohnsonAllPaths returns a shortest-path tree for shortest paths in the graph g.

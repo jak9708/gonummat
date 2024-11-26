@@ -5,8 +5,8 @@
 package gonum
 
 import (
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
+	"github.com/jak9708/gonummat/blas"
+	"github.com/jak9708/gonummat/blas/blas64"
 )
 
 // Dorgl2 generates an m×n matrix Q with orthonormal rows defined as the first m

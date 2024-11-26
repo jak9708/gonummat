@@ -10,8 +10,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/set"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/internal/set"
 )
 
 // Q returns the modularity Q score of the graph g subdivided into the

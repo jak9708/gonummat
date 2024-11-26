@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/blas"
+	"github.com/jak9708/gonummat/blas"
 )
 
 type Dlacpyer interface {

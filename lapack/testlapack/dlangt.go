@@ -11,8 +11,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/lapack"
+	"github.com/jak9708/gonummat/floats"
+	"github.com/jak9708/gonummat/lapack"
 )
 
 type Dlangter interface {

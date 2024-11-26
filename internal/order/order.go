@@ -9,7 +9,7 @@ import (
 	"slices"
 	"sort"
 
-	"gonum.org/v1/gonum/graph"
+	"github.com/jak9708/gonummat/graph"
 )
 
 // ByID sorts a slice of graph.Node by ID.

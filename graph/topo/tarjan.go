@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"slices"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/set"
-	"gonum.org/v1/gonum/internal/order"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/internal/set"
+	"github.com/jak9708/gonummat/internal/order"
 )
 
 // Unorderable is an error containing sets of unorderable graph.Nodes.

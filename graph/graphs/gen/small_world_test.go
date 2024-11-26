@@ -7,7 +7,7 @@ package gen
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/jak9708/gonummat/graph/simple"
 )
 
 var smallWorldDimensionParameters = [][]int{

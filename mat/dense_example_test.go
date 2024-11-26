@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"log"
 
-	"gonum.org/v1/gonum/mat"
+	"github.com/jak9708/gonummat/mat"
 )
 
 func ExampleDense_Add() {

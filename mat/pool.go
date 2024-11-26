@@ -8,9 +8,9 @@ import (
 	"math/bits"
 	"sync"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
-	"gonum.org/v1/gonum/blas/cblas128"
+	"github.com/jak9708/gonummat/blas"
+	"github.com/jak9708/gonummat/blas/blas64"
+	"github.com/jak9708/gonummat/blas/cblas128"
 )
 
 // poolFor returns the ceiling of base 2 log of size. It provides an index

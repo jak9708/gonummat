@@ -10,8 +10,8 @@ import (
 	"math/cmplx"
 	"slices"
 
-	"gonum.org/v1/gonum/cmplxs/cscalar"
-	"gonum.org/v1/gonum/internal/asm/c128"
+	"github.com/jak9708/gonummat/cmplxs/cscalar"
+	"github.com/jak9708/gonummat/internal/asm/c128"
 )
 
 const (

@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/blas"
+	"github.com/jak9708/gonummat/blas"
 )
 
 func DgemvBenchmark(b *testing.B, impl Dgemver, tA blas.Transpose, m, n, incX, incY int) {

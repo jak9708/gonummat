@@ -4,7 +4,7 @@
 
 package gonum
 
-import "gonum.org/v1/gonum/blas"
+import "github.com/jak9708/gonummat/blas"
 
 // Dlagtm performs one of the matrix-matrix operations
 //

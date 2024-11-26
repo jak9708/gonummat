@@ -7,8 +7,8 @@ package testblas
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/floats"
+	"github.com/jak9708/gonummat/blas"
+	"github.com/jak9708/gonummat/floats"
 )
 
 type Dtrmver interface {

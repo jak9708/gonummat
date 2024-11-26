@@ -11,8 +11,8 @@ import (
 	"strings"
 	"testing"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/simple"
 )
 
 var _ graph.Graph = (*Grid)(nil)

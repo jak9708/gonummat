@@ -43,7 +43,7 @@
 //
 // The ɣ_max parameter is the maximum level of the side lobes of the
 // normalized spectrum, in decibels.
-package window // import "gonum.org/v1/gonum/dsp/window"
+package window // import "github.com/jak9708/gonummat/dsp/window"
 
 // The article at http://www.dsplib.ru/content/win/win.html is the origin
 // of much of the information used in this package. It is in Russian, but

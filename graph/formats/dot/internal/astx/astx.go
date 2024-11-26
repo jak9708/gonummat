@@ -14,8 +14,8 @@ import (
 	"fmt"
 	"strings"
 
-	"gonum.org/v1/gonum/graph/formats/dot/ast"
-	"gonum.org/v1/gonum/graph/formats/dot/internal/token"
+	"github.com/jak9708/gonummat/graph/formats/dot/ast"
+	"github.com/jak9708/gonummat/graph/formats/dot/internal/token"
 )
 
 // === [ File ] ================================================================

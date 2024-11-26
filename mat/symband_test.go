@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"testing"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
+	"github.com/jak9708/gonummat/blas"
+	"github.com/jak9708/gonummat/blas/blas64"
 )
 
 func TestNewSymBand(t *testing.T) {

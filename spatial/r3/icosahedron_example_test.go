@@ -7,7 +7,7 @@ package r3_test
 import (
 	"fmt"
 
-	"gonum.org/v1/gonum/spatial/r3"
+	"github.com/jak9708/gonummat/spatial/r3"
 )
 
 func ExampleTriangle_icosphere() {

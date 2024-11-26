@@ -7,7 +7,7 @@ package optimize
 import (
 	"math"
 
-	"gonum.org/v1/gonum/stat/distmv"
+	"github.com/jak9708/gonummat/stat/distmv"
 )
 
 var _ Method = (*GuessAndCheck)(nil)

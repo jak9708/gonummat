@@ -5,9 +5,9 @@
 package traverse
 
 import (
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/linear"
-	"gonum.org/v1/gonum/graph/internal/set"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/internal/linear"
+	"github.com/jak9708/gonummat/graph/internal/set"
 )
 
 var _ Graph = graph.Graph(nil)

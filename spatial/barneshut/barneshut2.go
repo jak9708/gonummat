@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"math"
 
-	"gonum.org/v1/gonum/spatial/r2"
+	"github.com/jak9708/gonummat/spatial/r2"
 )
 
 // Particle2 is a particle in a plane.

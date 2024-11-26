@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
+	"github.com/jak9708/gonummat/blas"
 	"golang.org/x/exp/rand"
-	"gonum.org/v1/gonum/blas"
 )
 
 type Zgemmer interface {

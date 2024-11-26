@@ -9,8 +9,8 @@ import (
 	"math"
 	"slices"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/iterator"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/iterator"
 )
 
 // YenKShortestPaths returns the k-shortest loopless paths from s to t in g

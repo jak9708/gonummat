@@ -7,10 +7,10 @@ package gen
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/set"
-	"gonum.org/v1/gonum/graph/multi"
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/internal/set"
+	"github.com/jak9708/gonummat/graph/multi"
+	"github.com/jak9708/gonummat/graph/simple"
 )
 
 type gnUndirected struct {

@@ -4,7 +4,7 @@
 
 package set
 
-import "gonum.org/v1/gonum/graph"
+import "github.com/jak9708/gonummat/graph"
 
 type Int interface{ ~int | ~int64 }
 

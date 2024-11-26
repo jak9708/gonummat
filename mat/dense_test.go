@@ -13,9 +13,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/blas/blas64"
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/stat/combin"
+	"github.com/jak9708/gonummat/blas/blas64"
+	"github.com/jak9708/gonummat/floats"
+	"github.com/jak9708/gonummat/stat/combin"
 )
 
 func TestNewDense(t *testing.T) {

@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package order provides common sorting functions.
-package order // import "gonum.org/v1/gonum/internal/order"
+package order // import "github.com/jak9708/gonummat/internal/order"

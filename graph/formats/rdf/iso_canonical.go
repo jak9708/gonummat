@@ -13,7 +13,7 @@ import (
 	"slices"
 	"sort"
 
-	"gonum.org/v1/gonum/internal/order"
+	"github.com/jak9708/gonummat/internal/order"
 )
 
 // See "Canonical Forms for Isomorphic and Equivalent RDF Graphs: Algorithms

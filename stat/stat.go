@@ -8,7 +8,7 @@ import (
 	"math"
 	"sort"
 
-	"gonum.org/v1/gonum/floats"
+	"github.com/jak9708/gonummat/floats"
 )
 
 // CumulantKind specifies the behavior for calculating the empirical CDF or Quantile

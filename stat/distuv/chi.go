@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/mathext"
+	"github.com/jak9708/gonummat/mathext"
 )
 
 // Chi implements the χ distribution, a one parameter distribution

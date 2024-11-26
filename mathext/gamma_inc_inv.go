@@ -10,7 +10,7 @@ package mathext
 import (
 	"math"
 
-	"gonum.org/v1/gonum/mathext/internal/cephes"
+	"github.com/jak9708/gonummat/mathext/internal/cephes"
 )
 
 const (

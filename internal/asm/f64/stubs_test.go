@@ -7,8 +7,8 @@ package f64_test
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/floats/scalar"
-	. "gonum.org/v1/gonum/internal/asm/f64"
+	"github.com/jak9708/gonummat/floats/scalar"
+	. "github.com/jak9708/gonummat/internal/asm/f64"
 )
 
 func TestL1Norm(t *testing.T) {

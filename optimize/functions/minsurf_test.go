@@ -8,8 +8,8 @@ import (
 	"math"
 	"testing"
 
-	"gonum.org/v1/gonum/diff/fd"
-	"gonum.org/v1/gonum/floats"
+	"github.com/jak9708/gonummat/diff/fd"
+	"github.com/jak9708/gonummat/floats"
 )
 
 func TestMinimalSurface(t *testing.T) {

@@ -7,10 +7,10 @@ package rdf
 import (
 	"fmt"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/iterator"
-	"gonum.org/v1/gonum/graph/multi"
-	"gonum.org/v1/gonum/graph/set/uid"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/iterator"
+	"github.com/jak9708/gonummat/graph/multi"
+	"github.com/jak9708/gonummat/graph/set/uid"
 )
 
 // Graph implements an RDF graph satisfying the graph.Graph and graph.Multigraph

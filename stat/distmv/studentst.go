@@ -11,10 +11,10 @@ import (
 	"golang.org/x/exp/rand"
 	"golang.org/x/tools/container/intsets"
 
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/mat"
-	"gonum.org/v1/gonum/stat"
-	"gonum.org/v1/gonum/stat/distuv"
+	"github.com/jak9708/gonummat/floats"
+	"github.com/jak9708/gonummat/mat"
+	"github.com/jak9708/gonummat/stat"
+	"github.com/jak9708/gonummat/stat/distuv"
 )
 
 // StudentsT is a multivariate Student's T distribution. It is a distribution over

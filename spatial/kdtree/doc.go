@@ -5,4 +5,4 @@
 // Package kdtree implements a k-d tree.
 //
 // See https://en.wikipedia.org/wiki/K-d_tree for more details of k-d tree functionality.
-package kdtree // import "gonum.org/v1/gonum/spatial/kdtree"
+package kdtree // import "github.com/jak9708/gonummat/spatial/kdtree"

@@ -4,7 +4,7 @@
 
 package gonum
 
-import "gonum.org/v1/gonum/blas"
+import "github.com/jak9708/gonummat/blas"
 
 // Dormhr multiplies an m×n general matrix C with an nq×nq orthogonal matrix Q
 //

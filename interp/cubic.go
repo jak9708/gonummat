@@ -7,7 +7,7 @@ package interp
 import (
 	"math"
 
-	"gonum.org/v1/gonum/mat"
+	"github.com/jak9708/gonummat/mat"
 )
 
 // PiecewiseCubic is a piecewise cubic 1-dimensional interpolator with

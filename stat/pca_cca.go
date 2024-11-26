@@ -8,8 +8,8 @@ import (
 	"errors"
 	"math"
 
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/mat"
+	"github.com/jak9708/gonummat/floats"
+	"github.com/jak9708/gonummat/mat"
 )
 
 // PC is a type for computing and extracting the principal components of a

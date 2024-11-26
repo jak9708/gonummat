@@ -7,8 +7,8 @@ package gonum
 import (
 	"math"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/lapack"
+	"github.com/jak9708/gonummat/blas"
+	"github.com/jak9708/gonummat/lapack"
 )
 
 // Dlantr computes the specified norm of an m×n trapezoidal matrix A. If

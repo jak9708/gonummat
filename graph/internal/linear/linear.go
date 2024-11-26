@@ -5,7 +5,7 @@
 package linear
 
 import (
-	"gonum.org/v1/gonum/graph"
+	"github.com/jak9708/gonummat/graph"
 )
 
 // NodeStack implements a LIFO stack of graph.Node.

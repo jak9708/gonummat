@@ -8,8 +8,8 @@ import (
 	"math"
 	"sort"
 
+	"github.com/jak9708/gonummat/stat"
 	"golang.org/x/exp/rand"
-	"gonum.org/v1/gonum/stat"
 )
 
 // Laplace represents the Laplace distribution (https://en.wikipedia.org/wiki/Laplace_distribution).

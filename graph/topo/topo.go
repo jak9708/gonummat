@@ -5,9 +5,9 @@
 package topo
 
 import (
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/traverse"
-	"gonum.org/v1/gonum/internal/order"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/traverse"
+	"github.com/jak9708/gonummat/internal/order"
 )
 
 // IsPathIn returns whether path is a path in g.

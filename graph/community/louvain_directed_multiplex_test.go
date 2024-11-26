@@ -13,11 +13,11 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/floats/scalar"
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/simple"
-	"gonum.org/v1/gonum/internal/order"
+	"github.com/jak9708/gonummat/floats"
+	"github.com/jak9708/gonummat/floats/scalar"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/simple"
+	"github.com/jak9708/gonummat/internal/order"
 )
 
 var communityDirectedMultiplexQTests = []struct {

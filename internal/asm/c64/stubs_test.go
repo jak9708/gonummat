@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	. "gonum.org/v1/gonum/internal/asm/c64"
+	. "github.com/jak9708/gonummat/internal/asm/c64"
 )
 
 func TestAdd(t *testing.T) {

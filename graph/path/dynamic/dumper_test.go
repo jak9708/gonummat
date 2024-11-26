@@ -12,8 +12,8 @@ import (
 	"slices"
 	"text/tabwriter"
 
-	"gonum.org/v1/gonum/graph/path/internal/testgraphs"
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/jak9708/gonummat/graph/path/internal/testgraphs"
+	"github.com/jak9708/gonummat/graph/simple"
 )
 
 // dumper implements a grid D* Lite statistics dump.

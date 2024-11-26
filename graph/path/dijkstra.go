@@ -7,8 +7,8 @@ package path
 import (
 	"container/heap"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/traverse"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/traverse"
 )
 
 // DijkstraFrom returns a shortest-path tree for a shortest path from u to all nodes in

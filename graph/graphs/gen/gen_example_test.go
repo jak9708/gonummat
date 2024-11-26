@@ -8,10 +8,10 @@ import (
 	"fmt"
 	"log"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/encoding/dot"
-	"gonum.org/v1/gonum/graph/graphs/gen"
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/encoding/dot"
+	"github.com/jak9708/gonummat/graph/graphs/gen"
+	"github.com/jak9708/gonummat/graph/simple"
 )
 
 func ExampleStar_undirectedRange() {

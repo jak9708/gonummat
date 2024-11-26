@@ -7,8 +7,8 @@ package distmv
 import (
 	"math"
 
+	"github.com/jak9708/gonummat/spatial/r1"
 	"golang.org/x/exp/rand"
-	"gonum.org/v1/gonum/spatial/r1"
 )
 
 // Uniform represents a multivariate uniform distribution.

@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"math"
 
-	"gonum.org/v1/gonum/num/quat"
-	"gonum.org/v1/gonum/spatial/r3"
+	"github.com/jak9708/gonummat/num/quat"
+	"github.com/jak9708/gonummat/spatial/r3"
 )
 
 // euler returns an r3.Rotation that corresponds to the Euler

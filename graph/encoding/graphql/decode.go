@@ -10,8 +10,8 @@ import (
 	"errors"
 	"fmt"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/encoding"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/encoding"
 )
 
 // Unmarshal parses the JSON-encoded data and stores the result in dst.

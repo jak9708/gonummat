@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"math"
 
-	"gonum.org/v1/gonum/diff/fd"
-	"gonum.org/v1/gonum/mat"
+	"github.com/jak9708/gonummat/diff/fd"
+	"github.com/jak9708/gonummat/mat"
 )
 
 func ExampleDerivative() {

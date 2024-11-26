@@ -9,8 +9,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/floats/scalar"
-	"gonum.org/v1/gonum/lapack"
+	"github.com/jak9708/gonummat/floats/scalar"
+	"github.com/jak9708/gonummat/lapack"
 )
 
 type Dlapller interface {

@@ -7,7 +7,7 @@ package cmplxs_test
 import (
 	"fmt"
 
-	"gonum.org/v1/gonum/cmplxs"
+	"github.com/jak9708/gonummat/cmplxs"
 )
 
 // Set of examples for all the functions

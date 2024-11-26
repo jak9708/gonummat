@@ -7,8 +7,8 @@ package gonum
 import (
 	"math"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/lapack"
+	"github.com/jak9708/gonummat/blas"
+	"github.com/jak9708/gonummat/lapack"
 )
 
 // Dlansy returns the value of the specified norm of an n×n symmetric matrix. If

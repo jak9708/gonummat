@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/stat"
+	"github.com/jak9708/gonummat/stat"
 )
 
 func ExampleLinearRegression() {

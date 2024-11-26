@@ -5,8 +5,8 @@
 package c64
 
 import (
-	"gonum.org/v1/gonum/internal/cmplx64"
-	"gonum.org/v1/gonum/internal/math32"
+	"github.com/jak9708/gonummat/internal/cmplx64"
+	"github.com/jak9708/gonummat/internal/math32"
 )
 
 // Add is

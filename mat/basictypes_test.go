@@ -4,7 +4,7 @@
 
 package mat
 
-import "gonum.org/v1/gonum/blas/blas64"
+import "github.com/jak9708/gonummat/blas/blas64"
 
 func asBasicMatrix(d *Dense) *basicMatrix              { return (*basicMatrix)(d) }
 func asBasicVector(d *VecDense) *basicVector           { return (*basicVector)(d) }

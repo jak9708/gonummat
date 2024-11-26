@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package fd provides functions to approximate derivatives using finite differences.
-package fd // import "gonum.org/v1/gonum/diff/fd"
+package fd // import "github.com/jak9708/gonummat/diff/fd"

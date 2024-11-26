@@ -5,10 +5,10 @@
 package simple
 
 import (
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/iterator"
-	"gonum.org/v1/gonum/internal/order"
-	"gonum.org/v1/gonum/mat"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/iterator"
+	"github.com/jak9708/gonummat/internal/order"
+	"github.com/jak9708/gonummat/mat"
 )
 
 var (

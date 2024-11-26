@@ -4,7 +4,7 @@
 
 package optimize
 
-import "gonum.org/v1/gonum/floats"
+import "github.com/jak9708/gonummat/floats"
 
 var (
 	_ Method          = (*GradientDescent)(nil)

@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"gonum.org/v1/gonum/lapack"
+	"github.com/jak9708/gonummat/lapack"
 )
 
 // Condition is the condition number of a matrix. The condition

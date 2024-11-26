@@ -11,7 +11,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/lapack"
+	"github.com/jak9708/gonummat/lapack"
 )
 
 func DlangbBenchmark(b *testing.B, impl Dlangber) {

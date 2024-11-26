@@ -7,7 +7,7 @@
 
 package iterator
 
-import "gonum.org/v1/gonum/graph"
+import "github.com/jak9708/gonummat/graph"
 
 // Nodes implements the graph.Nodes interfaces.
 // The iteration order of Nodes is randomized.

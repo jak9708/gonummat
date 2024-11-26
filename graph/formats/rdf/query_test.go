@@ -12,7 +12,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/internal/order"
+	"github.com/jak9708/gonummat/internal/order"
 )
 
 var andTests = []struct {

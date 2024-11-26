@@ -9,7 +9,7 @@ import (
 	"math"
 	"testing"
 
-	. "gonum.org/v1/gonum/internal/asm/f64"
+	. "github.com/jak9708/gonummat/internal/asm/f64"
 )
 
 // nanwith copied from floats package

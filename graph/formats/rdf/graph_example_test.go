@@ -11,7 +11,7 @@ import (
 	"os"
 	"strings"
 
-	"gonum.org/v1/gonum/graph/formats/rdf"
+	"github.com/jak9708/gonummat/graph/formats/rdf"
 )
 
 func ExampleGraph() {

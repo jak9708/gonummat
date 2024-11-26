@@ -7,7 +7,7 @@ package gonum
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/blas/testblas"
+	"github.com/jak9708/gonummat/blas/testblas"
 )
 
 func BenchmarkDgemmSmSmSm(b *testing.B) {

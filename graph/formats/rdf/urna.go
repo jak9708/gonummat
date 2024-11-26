@@ -13,7 +13,7 @@ import (
 	"hash"
 	"slices"
 
-	"gonum.org/v1/gonum/stat/combin"
+	"github.com/jak9708/gonummat/stat/combin"
 )
 
 // Deduplicate removes duplicate statements in s, working in place, and returns

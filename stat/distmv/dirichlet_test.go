@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/mat"
+	"github.com/jak9708/gonummat/mat"
 )
 
 func TestDirichlet(t *testing.T) {

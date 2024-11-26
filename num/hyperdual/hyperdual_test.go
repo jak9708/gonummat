@@ -9,7 +9,7 @@ import (
 	"math"
 	"testing"
 
-	"gonum.org/v1/gonum/floats/scalar"
+	"github.com/jak9708/gonummat/floats/scalar"
 )
 
 var formatTests = []struct {

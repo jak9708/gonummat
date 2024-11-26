@@ -8,9 +8,9 @@ import (
 	"sort"
 	"testing"
 
-	"gonum.org/v1/gonum/floats/scalar"
-	"gonum.org/v1/gonum/stat"
-	"gonum.org/v1/gonum/stat/distuv"
+	"github.com/jak9708/gonummat/floats/scalar"
+	"github.com/jak9708/gonummat/stat"
+	"github.com/jak9708/gonummat/stat/distuv"
 )
 
 const tol = 1e-2

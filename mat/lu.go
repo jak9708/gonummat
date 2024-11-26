@@ -7,11 +7,11 @@ package mat
 import (
 	"math"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/lapack"
-	"gonum.org/v1/gonum/lapack/lapack64"
+	"github.com/jak9708/gonummat/blas"
+	"github.com/jak9708/gonummat/blas/blas64"
+	"github.com/jak9708/gonummat/floats"
+	"github.com/jak9708/gonummat/lapack"
+	"github.com/jak9708/gonummat/lapack/lapack64"
 )
 
 const (

@@ -4,7 +4,7 @@
 
 package gonum
 
-import "gonum.org/v1/gonum/blas"
+import "github.com/jak9708/gonummat/blas"
 
 // Dgebd2 reduces an m×n matrix A to upper or lower bidiagonal form by an orthogonal
 // transformation.

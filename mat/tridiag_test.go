@@ -11,7 +11,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/lapack/lapack64"
+	"github.com/jak9708/gonummat/lapack/lapack64"
 )
 
 func TestNewTridiag(t *testing.T) {

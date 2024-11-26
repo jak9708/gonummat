@@ -9,8 +9,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/blas/blas64"
-	"gonum.org/v1/gonum/lapack"
+	"github.com/jak9708/gonummat/blas/blas64"
+	"github.com/jak9708/gonummat/lapack"
 )
 
 func DgeevBenchmark(b *testing.B, impl Dgeever) {

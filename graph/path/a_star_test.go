@@ -9,10 +9,10 @@ import (
 	"reflect"
 	"testing"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/path/internal/testgraphs"
-	"gonum.org/v1/gonum/graph/simple"
-	"gonum.org/v1/gonum/graph/topo"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/path/internal/testgraphs"
+	"github.com/jak9708/gonummat/graph/simple"
+	"github.com/jak9708/gonummat/graph/topo"
 )
 
 var aStarTests = []struct {

@@ -7,7 +7,7 @@ package gonum
 import (
 	"math"
 
-	"gonum.org/v1/gonum/blas"
+	"github.com/jak9708/gonummat/blas"
 )
 
 // Dlaqr04 computes the eigenvalues of a block of an n×n upper Hessenberg matrix

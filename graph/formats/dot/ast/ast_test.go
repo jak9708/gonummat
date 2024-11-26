@@ -15,8 +15,8 @@ import (
 	"os"
 	"testing"
 
-	"gonum.org/v1/gonum/graph/formats/dot"
-	"gonum.org/v1/gonum/graph/formats/dot/ast"
+	"github.com/jak9708/gonummat/graph/formats/dot"
+	"github.com/jak9708/gonummat/graph/formats/dot/ast"
 )
 
 func TestParseFile(t *testing.T) {

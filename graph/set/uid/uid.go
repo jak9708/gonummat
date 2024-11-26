@@ -8,7 +8,7 @@ package uid
 import (
 	"math"
 
-	"gonum.org/v1/gonum/graph/internal/set"
+	"github.com/jak9708/gonummat/graph/internal/set"
 )
 
 // Max is the maximum ID value.

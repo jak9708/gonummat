@@ -10,8 +10,8 @@ import (
 	"log"
 	"strings"
 
-	"gonum.org/v1/gonum/floats/scalar"
-	"gonum.org/v1/gonum/stat"
+	"github.com/jak9708/gonummat/floats/scalar"
+	"github.com/jak9708/gonummat/stat"
 )
 
 func ExampleParseWithNA() {

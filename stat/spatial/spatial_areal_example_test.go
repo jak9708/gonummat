@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"math"
 
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/mat"
-	"gonum.org/v1/gonum/stat/spatial"
+	"github.com/jak9708/gonummat/floats"
+	"github.com/jak9708/gonummat/mat"
+	"github.com/jak9708/gonummat/stat/spatial"
 )
 
 // Euclid is a mat.Matrix whose elements reflects the Euclidean

@@ -31,7 +31,7 @@ package dualquat
 import (
 	"math"
 
-	"gonum.org/v1/gonum/num/quat"
+	"github.com/jak9708/gonummat/num/quat"
 )
 
 // PowReal returns d**p, the base-d exponential of p.

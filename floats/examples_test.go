@@ -7,7 +7,7 @@ package floats_test
 import (
 	"fmt"
 
-	"gonum.org/v1/gonum/floats"
+	"github.com/jak9708/gonummat/floats"
 )
 
 // Set of examples for all the functions

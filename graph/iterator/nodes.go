@@ -4,7 +4,7 @@
 
 package iterator
 
-import "gonum.org/v1/gonum/graph"
+import "github.com/jak9708/gonummat/graph"
 
 // OrderedNodes implements the graph.Nodes and graph.NodeSlicer interfaces.
 // The iteration order of OrderedNodes is the order of nodes passed to

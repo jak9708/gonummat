@@ -5,9 +5,9 @@
 package product
 
 import (
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/internal/order"
-	"gonum.org/v1/gonum/stat/combin"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/internal/order"
+	"github.com/jak9708/gonummat/stat/combin"
 )
 
 // Node is a product of two graph nodes.

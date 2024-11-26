@@ -11,7 +11,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"gonum.org/v1/gonum/floats/scalar"
+	"github.com/jak9708/gonummat/floats/scalar"
 )
 
 // intSosMatch returns true if the two slices of slices are equal.

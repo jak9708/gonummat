@@ -9,7 +9,7 @@ package gonum
 import (
 	"math"
 
-	"gonum.org/v1/gonum/internal/math32"
+	"github.com/jak9708/gonummat/internal/math32"
 )
 
 type Implementation struct{}

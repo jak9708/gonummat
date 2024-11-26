@@ -9,8 +9,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/stat"
+	"github.com/jak9708/gonummat/floats"
+	"github.com/jak9708/gonummat/stat"
 )
 
 // Exponential represents the exponential distribution (https://en.wikipedia.org/wiki/Exponential_distribution).

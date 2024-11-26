@@ -7,9 +7,9 @@ package testlapack
 import (
 	"math"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/internal/asm/f64"
-	"gonum.org/v1/gonum/lapack"
+	"github.com/jak9708/gonummat/blas"
+	"github.com/jak9708/gonummat/internal/asm/f64"
+	"github.com/jak9708/gonummat/lapack"
 )
 
 // dlagtm is a local implementation of Dlagtm to keep code paths independent.

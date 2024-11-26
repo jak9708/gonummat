@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
-	. "gonum.org/v1/gonum/internal/asm/f32"
-	"gonum.org/v1/gonum/internal/math32"
+	. "github.com/jak9708/gonummat/internal/asm/f32"
+	"github.com/jak9708/gonummat/internal/math32"
 )
 
 type SgemvCase struct {

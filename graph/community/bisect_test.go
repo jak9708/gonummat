@@ -7,8 +7,8 @@ package community
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/simple"
 )
 
 func TestProfileUndirected(t *testing.T) {

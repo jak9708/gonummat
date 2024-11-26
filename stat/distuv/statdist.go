@@ -7,7 +7,7 @@ package distuv
 import (
 	"math"
 
-	"gonum.org/v1/gonum/mathext"
+	"github.com/jak9708/gonummat/mathext"
 )
 
 // Bhattacharyya is a type for computing the Bhattacharyya distance between

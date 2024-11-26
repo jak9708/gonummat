@@ -9,8 +9,8 @@ import (
 	"sort"
 	"testing"
 
+	"github.com/jak9708/gonummat/stat"
 	"golang.org/x/exp/rand"
-	"gonum.org/v1/gonum/stat"
 )
 
 func TestAlphaStable(t *testing.T) {

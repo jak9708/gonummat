@@ -12,9 +12,9 @@ import (
 	"strconv"
 	"strings"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/encoding"
-	"gonum.org/v1/gonum/internal/order"
+	"github.com/jak9708/gonummat/graph"
+	"github.com/jak9708/gonummat/graph/encoding"
+	"github.com/jak9708/gonummat/internal/order"
 )
 
 // Node is a DOT graph node.

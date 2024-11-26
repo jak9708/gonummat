@@ -7,8 +7,8 @@ package gonum
 import (
 	"math"
 
-	"gonum.org/v1/gonum/internal/asm/f64"
-	"gonum.org/v1/gonum/lapack"
+	"github.com/jak9708/gonummat/internal/asm/f64"
+	"github.com/jak9708/gonummat/lapack"
 )
 
 // Dlangb returns the given norm of an m×n band matrix with kl sub-diagonals and
