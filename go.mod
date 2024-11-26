@@ -12,4 +12,4 @@ require (
 
 require golang.org/x/mod v0.22.0 // indirect
 
-replace gonum.org/v1/gonum => github.com/jak9708/gonummat v0.0.1
+replace gonum.org/v1/gonum => github.com/jak9708/gonummat v0.0.2
